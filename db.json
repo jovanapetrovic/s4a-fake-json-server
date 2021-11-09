@@ -5,35 +5,35 @@
       "flightNumber": 3819,
       "departureAirportIATACode": "SEA",
       "arrivalAirportIATACode": "PPX",
-      "departureDate": "2018-09-08T07:47:57 -02:00"
+      "departureDate": "2018-09-08T07:47:57-02:00"
     },
     {
       "flightId": 1,
       "flightNumber": 4953,
       "departureAirportIATACode": "LAX",
       "arrivalAirportIATACode": "LEW",
-      "departureDate": "2021-01-31T03:47:25 -01:00"
+      "departureDate": "2021-01-31T03:47:25-01:00"
     },
     {
       "flightId": 2,
       "flightNumber": 2273,
       "departureAirportIATACode": "ANC",
       "arrivalAirportIATACode": "PPX",
-      "departureDate": "2019-09-11T05:05:03 -02:00"
+      "departureDate": "2019-09-11T05:05:03-02:00"
     },
     {
       "flightId": 3,
       "flightNumber": 7826,
       "departureAirportIATACode": "ANC",
       "arrivalAirportIATACode": "GDN",
-      "departureDate": "2015-04-07T12:55:41 -02:00"
+      "departureDate": "2015-04-07T12:55:41-02:00"
     },
     {
       "flightId": 4,
       "flightNumber": 9740,
       "departureAirportIATACode": "ANC",
       "arrivalAirportIATACode": "GDN",
-      "departureDate": "2015-01-05T05:44:46 -01:00"
+      "departureDate": "2015-01-05T05:44:46-01:00"
     }
   ],
   "cargos": [
